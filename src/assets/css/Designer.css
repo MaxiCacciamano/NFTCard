@@ -1,0 +1,12 @@
+.Designer {
+    align-items: center;
+    justify-content: center;
+    border-top:1px solid hsl(216, 29%, 29%);
+    p{
+        color: hsl(216, 26%, 47%);
+        text-align: center;
+    }
+    span{
+        color: hsl(0, 0%, 100%);
+    }
+}
